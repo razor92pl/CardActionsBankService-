@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using CardActionsService.Services;
-using CardActionsService.DTOs;
+using CardActionsBankService.Services;
+using CardActionsBankService.DTOs;
 
-namespace CardActionsService.Controllers
+namespace CardActionsBankService.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

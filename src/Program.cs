@@ -1,5 +1,4 @@
-using CardActionsService.Services;
-
+using CardActionsBankService.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container

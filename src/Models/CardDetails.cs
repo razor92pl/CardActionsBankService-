@@ -1,6 +1,6 @@
 using System;
 
-namespace CardActionsService.Models
+namespace CardActionsBankService.Models
 {
     /// <summary>
     /// Card details

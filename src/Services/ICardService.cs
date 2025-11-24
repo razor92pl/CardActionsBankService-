@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
-using CardActionsService.DTOs;
-using CardActionsService.Models;
+using CardActionsBankService.DTOs;
+using CardActionsBankService.Models;
 
-namespace CardActionsService.Services
+namespace CardActionsBankService.Services
 {
     public interface ICardService
     {

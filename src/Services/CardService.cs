@@ -1,8 +1,8 @@
-using CardActionsService.DTOs;
-using CardActionsService.Models;
-using CardActionsService.Rules;
+using CardActionsBankService.DTOs;
+using CardActionsBankService.Models;
+using CardActionsBankService.Rules;
 
-namespace CardActionsService.Services
+namespace CardActionsBankService.Services
 {
     /// <summary>
     /// Domain service responsible for fetching card data

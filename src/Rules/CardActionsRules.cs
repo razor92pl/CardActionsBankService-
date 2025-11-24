@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using CardActionsService.Models;
+using CardActionsBankService.Models;
 
-namespace CardActionsService.Rules
+namespace CardActionsBankService.Rules
 {
     /// <summary>
     /// Business rules for allowed card actions.

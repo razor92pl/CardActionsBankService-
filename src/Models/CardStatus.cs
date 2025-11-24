@@ -1,4 +1,4 @@
-namespace CardActionsService.Models
+namespace CardActionsBankService.Models
 {
     /// <summary>
     /// Card status.
